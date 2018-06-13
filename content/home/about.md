@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Natural Language Processing",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Computer Science"
+  institution = "UT Austin"
+  year = "2017 - now"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Computer Science"
+  institution = "Fudan University"
+  year = "2014 - 2017"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "Fudan University"
+  year = "2010 - 2014"
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am currently a first-year Ph.D. student in the Computer Science department at the [Univeristy of Texas at Austin](https://www.utexas.edu/), working with Professor [Greg Durrett](http://www.cs.utexas.edu/~gdurrett/). My main research interests lie within natural language processing. Specifically, I am now working on incorporating inductive bias into the deep neural models to make model more explicit and interpretable.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before coming to UT Austin, I finished my undergraduate study at [Fudan University](http://www.fudan.edu.cn/en/). I also received a master degree from Fudan where I was advised by Professor [Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/), [Qi Zhang](http://jkx.fudan.edu.cn/~qzhang/), and [Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html). 
