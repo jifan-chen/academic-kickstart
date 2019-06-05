@@ -1,8 +1,8 @@
 +++
-title = "Deep fusion LSTMs for text semantic matching"
+title = "Understanding Dataset Design Choices for Multi-hop Reasoning"
 
 # Date first published.
-date = "2016-06-01"
+date = "2019-06-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jifan Chen", "Greg Durrett"]
@@ -23,7 +23,7 @@ publication = "2019 Annual Conference of the North American Chapter of the Assoc
 publication_short = "NAACL"
 
 # Abstract and optional shortened version.
-abstract = "Recently, there is rising interest in modelling the interactions of text pair with deep neural networks. In this paper, we propose a model of deep fusion LSTMs (DF-LSTMs) to model the strong interaction of text pair in a recursive matching way. Specifically, DF-LSTMs consist of two interdependent LSTMs, each of which models a sequence under the influence of another. We also use external memory to increase the capacity of LSTMs, thereby possibly capturing more complicated matching patterns. Experiments on two very large datasets demonstrate the efficacy of our proposed architecture. Furthermore, we present an elaborate qualitative analysis of our models, giving an intuitive understanding how our model worked."
+abstract = ""
 #abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
@@ -44,7 +44,7 @@ url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "slides/naacl19.pdf"
 url_video = ""
 url_poster = ""
 url_source = ""
