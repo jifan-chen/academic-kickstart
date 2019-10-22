@@ -1,11 +1,11 @@
 +++
-title = "Understanding Dataset Design Choices for Multi-hop Reasoning"
+title = "Multi-hop Question Answering via Reasoning Chains"
 
 # Date first published.
-date = "2019-06-02"
+date = "2019-10-07"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jifan Chen", "Greg Durrett"]
+authors = ["Jifan Chen", "Shih-ting Lin", "Greg Durrett"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Jifan Chen", "Greg Durrett"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
-publication_short = "NAACL"
+publication = "2019 arXiv preprint"
+publication_short = "arXiv preprint"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -39,12 +39,12 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1904.12106.pdf"
+url_pdf = "https://arxiv.org/pdf/1910.02610.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "slides/naacl19.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
