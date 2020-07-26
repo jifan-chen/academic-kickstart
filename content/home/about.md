@@ -34,6 +34,6 @@ weight = 5
 
 # Biography
 
-Hi, I am currently a third-year Ph.D. student in the Computer Science department at the [Univeristy of Texas at Austin](https://www.utexas.edu/), working with Professor [Greg Durrett](http://www.cs.utexas.edu/~gdurrett/). My main research interests lie within natural language processing. Specifically, I am now working on incorporating inductive bias into the deep neural models to make model more explicit and interpretable.
+Hi, I am currently a third-year Ph.D. student in the Computer Science department at the [University of Texas at Austin](https://www.utexas.edu/), working with Professor [Greg Durrett](http://www.cs.utexas.edu/~gdurrett/). My main research interests lie within natural language processing. Specifically, I am now working on incorporating inductive bias into the deep neural models to make model more explicit and interpretable.
 
 Before coming to UT Austin, I finished my undergraduate study at [Fudan University](http://www.fudan.edu.cn/en/). I also received a master degree from Fudan where I was advised by Professor [Xuanjing Huang](http://nlp.fudan.edu.cn/xjhuang/), [Qi Zhang](http://jkx.fudan.edu.cn/~qzhang/), and [Xipeng Qiu](http://nlp.fudan.edu.cn/xpqiu/en.html). 
